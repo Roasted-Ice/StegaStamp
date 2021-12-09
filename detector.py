@@ -3,7 +3,6 @@ import bchlib
 import tensorflow as tf
 import argparse
 import numpy as np
-import tensorflow.contrib.image
 from tensorflow.python.saved_model import tag_constants
 from tensorflow.python.saved_model import signature_constants
 
